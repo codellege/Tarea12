@@ -1,0 +1,12 @@
+.invalid {
+ color: red;
+}
+
+.valid {
+    color: green;
+}
+
+.shipping-form {
+width: 80%;
+height: 50%;
+}
